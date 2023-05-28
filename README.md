@@ -5,6 +5,4 @@ It is a simulator that moves away from the immersive classics based on incessant
 
 In this environment, we are presented with different modules or workstation, in which we stop to carry out an activity that has traditionally been a relaxing stimulus, such as drawing kanjis, katakanas, hiraganas or whatever comes to mind, or feeding some lively fish in a pond.
 
-
-https://github.com/AruxG/Shizukesa-RV/assets/48557378/eb738f02-4ab7-47f2-a402-08441bb4d31d
-
+https://github.com/AruxG/Shizukesa-RV/assets/48557378/bd0fa489-df51-4d24-93ac-ae70b3db1e25
